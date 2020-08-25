@@ -1,0 +1,4 @@
+C:\Users\Mitul\.CLion2018.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/Mitul/Desktop/ECS36CFQ/P4/gay/P4
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Mitul/Desktop/ECS36CFQ/P4/gay/P4/cmake-build-debug
